@@ -1,3 +1,7 @@
+Iterfaz web de administracion de tareas
+
+![admin-tareas](https://user-images.githubusercontent.com/66856814/90456079-4c86aa00-e0ce-11ea-8925-e7f6a19d4aad.jpg)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
